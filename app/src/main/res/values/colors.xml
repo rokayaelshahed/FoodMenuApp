@@ -2,4 +2,30 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+
+    <!-- Primary Colors -->
+    <color name="primary_color">#2196F3</color> <!-- Blue 500 -->
+    <color name="primary_light">#64B5F6</color> <!-- Blue 300 -->
+    <color name="primary_dark">#1976D2</color> <!-- Blue 700 -->
+
+    <!-- Text Colors -->
+    <color name="text_primary">#212121</color> <!-- Black 87% -->
+    <color name="text_secondary">#757575</color> <!-- Gray 600 -->
+    <color name="text_white">#FFFFFF</color> <!-- White -->
+
+    <!-- Button States -->
+    <color name="category_button_text">#212121</color> <!-- Default text color -->
+    <color name="category_button_text_selected">#FFFFFF</color> <!-- Selected text color -->
+    <color name="category_button_bg">#FFFFFF</color> <!-- Default background -->
+    <color name="category_button_bg_selected">#2196F3</color> <!-- Selected background -->
+    <color name="category_button_stroke">#2196F3</color> <!-- Border color -->
+
+    <!-- Background Colors -->
+    <color name="background_light">#F5F5F5</color> <!-- Light background -->
+    <color name="background_white">#FFFFFF</color> <!-- White background -->
+    <!-- Accent Colors -->
+    <color name="accent_color">#FFC107</color> <!-- Amber 500 -->
+    <color name="accent_light">#FFECB3</color> <!-- Amber 100 -->
+    <color name="accent_dark">#FFA000</color> <!-- Amber 700 -->
 </resources>
